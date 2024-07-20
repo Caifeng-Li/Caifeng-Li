@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=Caifeng-Li&show_icons=true&theme=radical" /> 
 </div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F71CB4&center=true&vCenter=true&width=435&lines=The+only+thing+we+have+to+fear+is+fear+itself+-+nameless%2C+unreasoning%2C+unjustified+terror+which+paralyzes+needed+efforts+to+convert+retreat+into+advance." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1000&color=F71CB4&center=true&vCenter=true&multiline=true&width=2000&height=60&lines=The+only+thing+we+have+to+fear+is+fear+itself+-+nameless%2C+unreasoning%2C+unjustified+terror+which+paralyzes+needed+efforts+to+convert+retreat+into+advance." alt="Typing SVG" /></a>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caifeng-Li&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
