@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 😄 I’m Caifeng Li (github: @Caifeng-Li; ResearchGate: https://www.researchgate.net/profile/Caifeng-Li).
+- 💞️ At present, I am a Ph.D. student and majoring in Statistics.
+- 🌱 My research interests are Statistical Genetics, Computational biology, and Machine Learning.
+- 📫 E-mail: caifeng.li2023@gmail.com
+
+- ![](https://github-readme-stats.vercel.app/api?username=Caifeng-Li)
