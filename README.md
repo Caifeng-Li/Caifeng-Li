@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caifeng-Li&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
 </div>
 
-## My history 😄
+## My history ⚡
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Caifeng-Li&show_icons=true&theme=radical" /> 
