@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 - 📫 E-mail: caifeng.li2023@gmail.com
 
 <span > 
-  <img alt="Static Badge" src="https://img.shields.io/badge/Vue-%2342b883?style=flat-square&logo=Vue&logoColor=%23fff"> 
-  <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-%230072b3?style=flat-square&logo=TypeScript&logoColor=%23fff"> 
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" /> 
+  <img alt="Static Badge" src="https://img.shields.io/badge/R-%2342b883?style=flat-square&logo=Vue&logoColor=%23fff"> 
+  <img alt="Static Badge" src="https://img.shields.io/badge/Python-%230072b3?style=flat-square&logo=TypeScript&logoColor=%23fff"> 
+  <img src="https://img.shields.io/badge/-SQL-F7DF1E?style=flat-square&logo=javascript&logoColor=white" /> 
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
   <img alt="Static Badge" src="https://img.shields.io/badge/Webpack-%230072b3?style=flat-square&logo=webpack&logoColor=%23fff"> 
