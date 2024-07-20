@@ -19,30 +19,29 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1000&color=93106B&center=true&vCenter=true&multiline=true&width=2000&height=60&lines=The+only+thing+we+have+to+fear+is+fear+itself+-+nameless%2C+unreasoning%2C+unjustified+terror+which+paralyzes+needed+efforts+to+convert+retreat+into+advance.)](https://git.io/typing-svg)
 
-## 
+## About me 🌱
 
 - 😄 I’m Caifeng Li (github: @Caifeng-Li; ResearchGate: https://www.researchgate.net/profile/Caifeng-Li).
 - 💞️ At present, I am a Ph.D. student and majoring in Statistics.
 - 🌱 My research interests are Statistical Genetics, Computational biology, and Machine Learning.
 - 📫 E-mail: caifeng.li2023@gmail.com
 
-## 
+## My tools 🔭
 <p align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/R-%2342b883?style=flat-square&logo=R&logoColor=%23fff"> 
   <img alt="Static Badge" src="https://img.shields.io/badge/Python-%230072b3?style=flat-square&logo=Python&logoColor=%23fff"> 
   <img src="https://img.shields.io/badge/-MySQL-F7DF1E?style=flat-square&logo=mysql&logoColor=white" /> 
   <img src="https://img.shields.io/badge/-Linux-E34F26?style=flat-square&logo=linux&logoColor=white" /> 
-  
 </p>
 
-##
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caifeng-Li&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
+</div>
+
+## My history 😄
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Caifeng-Li&show_icons=true&theme=radical" /> 
 </div>
 
-##
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caifeng-Li&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
-</div>
 
