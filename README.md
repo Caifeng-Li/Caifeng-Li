@@ -26,18 +26,18 @@ Here are some ideas to get you started:
 - 🌱 My research interests are Statistical Genetics, Computational biology, and Machine Learning.
 - 📫 E-mail: caifeng.li2023@gmail.com
 
+## 
 <p align="center">
   <img alt="Static Badge" src="https://img.shields.io/badge/R-%2342b883?style=flat-square&logo=R&logoColor=%23fff"> 
   <img alt="Static Badge" src="https://img.shields.io/badge/Python-%230072b3?style=flat-square&logo=Python&logoColor=%23fff"> 
   <img src="https://img.shields.io/badge/-MySQL-F7DF1E?style=flat-square&logo=mysql&logoColor=white" /> 
   <img src="https://img.shields.io/badge/-Linux-E34F26?style=flat-square&logo=linux&logoColor=white" /> 
+  ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  
 </p>
-<span align="center"> 
-  <img alt="Static Badge" src="https://img.shields.io/badge/R-%2342b883?style=flat-square&logo=R&logoColor=%23fff"> 
-  <img alt="Static Badge" src="https://img.shields.io/badge/Python-%230072b3?style=flat-square&logo=Python&logoColor=%23fff"> 
-  <img src="https://img.shields.io/badge/-MySQL-F7DF1E?style=flat-square&logo=mysql&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-Linux-E34F26?style=flat-square&logo=linux&logoColor=white" /> 
-</span>
 
 ##
 
