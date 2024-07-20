@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## About me 🌱
 
-- 😄 I’m Caifeng Li (github: @Caifeng-Li; ResearchGate: https://www.researchgate.net/profile/Caifeng-Li).
+- 😄 I’m Caifeng Li (Google Scholar: https://scholar.google.com/citations?user=uVNa9P8AAAAJ&hl=en).
 - 💞️ At present, I am a Ph.D. student and majoring in Statistics.
 - 🌱 My research interests are Statistical Genetics, Computational biology, and Machine Learning.
 - 📫 E-mail: caifeng.li2023@gmail.com
