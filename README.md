@@ -26,10 +26,16 @@ Here are some ideas to get you started:
 - 🌱 My research interests are Statistical Genetics, Computational biology, and Machine Learning.
 - 📫 E-mail: caifeng.li2023@gmail.com
 
+<p align="center">
+  <img alt="Static Badge" src="https://img.shields.io/badge/R-%2342b883?style=flat-square&logo=R&logoColor=%23fff"> 
+  <img alt="Static Badge" src="https://img.shields.io/badge/Python-%230072b3?style=flat-square&logo=Python&logoColor=%23fff"> 
+  <img src="https://img.shields.io/badge/-MySQL-F7DF1E?style=flat-square&logo=mysql&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-Linux-E34F26?style=flat-square&logo=linux&logoColor=white" /> 
+</p>
 <span align="center"> 
   <img alt="Static Badge" src="https://img.shields.io/badge/R-%2342b883?style=flat-square&logo=R&logoColor=%23fff"> 
   <img alt="Static Badge" src="https://img.shields.io/badge/Python-%230072b3?style=flat-square&logo=Python&logoColor=%23fff"> 
-  <img src="https://img.shields.io/badge/-SQL-F7DF1E?style=flat-square&logo=sql&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-MySQL-F7DF1E?style=flat-square&logo=mysql&logoColor=white" /> 
   <img src="https://img.shields.io/badge/-Linux-E34F26?style=flat-square&logo=linux&logoColor=white" /> 
 </span>
 
@@ -43,12 +49,4 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caifeng-Li&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
 </div>
-
-
-![Caifeng Li's github stats](https://github-readme-stats.vercel.app/api?username=Caifeng-Li&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=Caifeng-Li&hide_title=false&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)
-
-![profile](https://github-profile-trophy.vercel.app/?username=Caifeng-Li&theme=algolia&column=8)
-
-
-
 
