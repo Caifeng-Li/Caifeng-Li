@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://blog.sunguoqi.com/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=435&lines=我们唯一值得恐惧的就是恐惧本身——这是一种难以名状、盲目冲动、毫无缘由的恐惧，可以使人们转退为进所需的努力全都丧失效力。！;The only thing we have to fear is fear itself - nameless, unreasoning, unjustified terror which paralyzes needed efforts to convert retreat into advance.！&center=true&size=27" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=024EF7&width=435&lines=我们唯一值得恐惧的就是恐惧本身——这是一种难以名状、盲目冲动、毫无缘由的恐惧，可以使人们转退为进所需的努力全都丧失效力。！;The only thing we have to fear is fear itself - nameless, unreasoning, unjustified terror which paralyzes needed efforts to convert retreat into advance.！&center=true&size=27" alt="Typing SVG" />
   </a>
 </div>
 
