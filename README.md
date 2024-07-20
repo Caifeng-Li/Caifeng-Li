@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 - 🌱 My research interests are Statistical Genetics, Computational biology, and Machine Learning.
 - 📫 E-mail: caifeng.li2023@gmail.com
 
-![](https://github-readme-stats.vercel.app/api?username=Caifeng-Li&theme=dark)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Caifeng-Li&show_icons=true&theme=transparent" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Caifeng-Li&show_icons=true&theme=radical" /> 
 </div>
