@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ## About me 🌱
 
 - 😄 I’m Caifeng Li (https://caifeng-li.github.io/).
-- 💞️ At present, I am a Ph.D. student, majoring in Statistics.
+- 💞️ At present, I am a Ph.D. Candidate, majoring in Statistics.
 - 🌱 My research interests are Statistical Genetics, Computational biology, Bioinformatics, and Machine Learning.
 - 📫 E-mail: caifeng.li@ucalgary.ca
 
